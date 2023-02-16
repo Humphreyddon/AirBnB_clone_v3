@@ -155,14 +155,14 @@ No known bugs at this time.
 
 ## Authors
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-<<<<<<< HEAD
+
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Humphrey Okunwe - [Github](https://github.com/humphreyddon) / [Twitter](https://twitter.com/humphreydwhiz)
 OKO-Ose Onolunose - [Github](https://github.com/Onose12) / [Twitter](https://twitter.com/ono_hannah)
 
 =======
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
->>>>>>> refs/remotes/origin/master
+
 
 Second part of Airbnb: Joann Vuong
 ## License
